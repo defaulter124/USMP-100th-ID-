@@ -1,74 +1,74 @@
 {
-    "8675204":{
-        "name":"[TDR] The Dark Resistance",
-        "id":  8675204,
-        "link": "https://www.roblox.com/groups/8675204",
+    "7368934":{
+        "name":"Hydras Finest Agents",
+        "id":  7368934,
+        "link": "https://www.roblox.com/groups/7368934",
         "clothes": {
             "11": [6557844988,6145630130,6456001810,6145603339,6145062585],
             "12": [6456006402,6145060863,6557849665],
             "2": [6121932479,7772636376,7772624807,7772623442,7772621068,7772619003,7772611327]
         },
-        "status": "KoS"
+        "status": "BLACKLISTED"
     },
-    "7033913":{
-        "name":"Order of The Ninth's Revenge",
+    "7170806":{
+        "name":"Hydras First Infantry",
         "id":  7033913,
-        "link": "https://www.roblox.com/groups/7033913",
+        "link": "https://www.roblox.com/groups/7170806",
         "clothes": {
             "11": [7790943732],
             "12": [7795200832],
             "2": [5824481123]
         },
-        "status": "KoS"
+        "status": "BLACKLISTED"
     },
-    "2981881":{
-        "name":"Hydra International",
-        "id":  2981881,
-        "link": "https://www.roblox.com/groups/2981881",
+    "5964027":{
+        "name":"Mushroom Army of Vietnam",
+        "id":  5964027,
+        "link": "https://www.roblox.com/groups/5964027",
         "clothes": {
             "11": [6520130517,6011152129,5880737458,5533533246,5196400791,5047308146,5031841207],
             "12": [6520131411,6011153713,5880742473,5612459187,5533535061,5050174545,5196401993],
             "2": [5955609562,6064847250,5635901375,5062358807,5031963971]
         },
-        "status": "AoS"
+        "status": "BLACKLISTED"
     },
-    "10937425":{
-        "name":"Order of the Valkyrie",
-        "id":  10937425,
-        "link": "https://www.roblox.com/groups/10937425",
+    "6984522":{
+        "name":"The Eyes Of Sins",
+        "id":  6984522,
+        "link": "https://www.roblox.com/groups/6984522/The-Eyes-Of-Sins#!/about",
         "clothes": {
             "11": [6967076952],
             "12": [6967073061],
             "2": []
         },
-        "status": "AoS"
+        "status": "BLACKLISTED"
     },
-    "5691294": {
-        "name":"[Tнe Iппeя Ciяcle]",
-        "id":  5691294,
-        "link": "https://www.roblox.com/groups/5691294",
+    "6332585": {
+        "name":"Northern Confederacy",
+        "id":  6332585,
+        "link": "https://www.roblox.com/groups/6332585",
         "clothes": {
             "11": [],
             "12": [],
             "2": []
         },
-        "status": "AoS"
+        "status": "BLACKLISTED"
     },
-    "8224374": {
-        "name":"[DoJ] Department of Justice .",
-        "id":  8224374,
-        "link": "https://www.roblox.com/groups/8224374",
+    "3080633": {
+        "name":"The Mushroom Empire .",
+        "id":  3080633,
+        "link": "https://www.roblox.com/groups/3080633",
         "clothes": {
             "11": [8388851136, 8159890554, 7371148872, 6435247571],
             "12": [8388857822, 6435254871, 8159677461, 7371151829],
             "2": [5921705140, 5921706323]
         },
-        "status": "AoS"
+        "status": "BLACKLISTED"
     },
-    "9723651": {
-        "name":"[TC] The Commandos",
-        "id":  9723651,
-        "link": "https://www.roblox.com/groups/9723651",
+    "7683770": {
+        "name":"The Big Head Mafia",
+        "id":  7683770,
+        "link": "https://www.roblox.com/groups/7683770",
         "clothes": {
             "11": [7310695884, 7078841685, 6473207706],
             "12": [6473217584, 7078846374, 7316456767],
@@ -76,148 +76,93 @@
         },
         "status": "AoS"
     },
-    "7281267":{
-        "name": "Phalanx",
-        "id": 7281267,
-        "link": "https://www.roblox.com/groups/7281267",
+    "7683787":{
+        "name": "The Allahs",
+        "id": 7683787,
+        "link": "https://www.roblox.com/groups/7683787",
         "clothes": {
             "11": [6695022734, 6694826391, 5693771658, 5492795384],
             "12": [6694827987, 5693772376, 5492796328],
             "2": [6165960623,6080735759,5733263443]
         },
-        "status": "N/A"
+        "status": "BLACKLISTED"
     },
-    "10565618":{
-        "name": "Venomous",
-        "id": 10565618,
-        "link": "https://www.roblox.com/groups/10565618",
+    "7742449":{
+        "name": "Hydra Second Infantry",
+        "id": 7742449,
+        "link": "https://www.roblox.com/groups/7742449",
         "clothes": {
             "11": [8771172193],
             "12": [8771182712],
             "2": [7062500052, 6759486939]
         },
-        "status": "N/A"
+        "status": "BLACKLISTED"
     },
-    "9550235":{
-        "name": "[TRI] The Romanian Insurgency",
-        "id": 9550235,
-        "link": "https://www.roblox.com/groups/9550235",
+    "10165122":{
+        "name": "Vietnamese Raiding Group",
+        "id": 10165122,
+        "link": "https://www.roblox.com/groups/10165122",
         "clothes": {
             "11": [6598154622, 6455422355],
             "12": [6598159462],
             "2": [6404987590]
         },
-        "status": "N/A"
+        "status": "BLACKLISTED"
     },
-    "8339712":{
-        "name": "[TSI] The Steel Insurgence",
-        "id": 8339712,
-        "link": "https://www.roblox.com/groups/8339712",
+    "10028344":{
+        "name": "The Dark Resistance",
+        "id": 10028344,
+        "link": "https://www.roblox.com/groups/10028344",
         "clothes": {
             "11": [],
             "12": [],
             "2": []
         },
-        "status": "KoS"
+        "status": "BLACKLISTED"
     },
-    "6544420":{
-        "name": "Jokers Riot",
-        "id": 6544420,
-        "link": "https://www.roblox.com/groups/6544420",
+    "6851704":{
+        "name": "Imperium Of Raiders",
+        "id": 6851704,
+        "link": "https://www.roblox.com/groups/6851704",
         "clothes": {
             "11": [6031363315, 5646493459],
             "12": [5646494481, 5809929449],
             "2": [5646502856, 5822986922, 5823513582]
         },
-        "status": "N/A"
+        "status": "BLACKLISTED"
     },
-    "6281575":{
-        "name": "French Elite",
-        "id": 6281575,
-        "link": "https://www.roblox.com/groups/6281575",
+    "3857585":{
+        "name": "Valania",
+        "id": 3857585,
+        "link": "https://www.roblox.com/groups/3857585",
         "clothes": {
             "11": [5019082284],
             "12": [5019085927],
             "2": []
         },
-        "status": "N/A"
+        "status": "BLACKLISTED"
     },
-    "6540835":{
-        "name": "[RTU] Reapers Of The Underworld",
-        "id": 6540835,
-        "link": "https://www.roblox.com/groups/6540835/RTU-Reapers-Of-The-Underworld#!/about",
+    "13769718":{
+        "name": "Budget Hydra",
+        "id": 13769718,
+        "link": "https://www.roblox.com/groups/13769718/Budget-Hydra",
         "clothes": {
             "11": [6230086835, 5594417678,5247095728],
             "12": [6230450406, 5594418266, 5247096613],
             "2": []
         },
-        "status": "N/A"
+        "status": "BLACKLISTED"
     },
-    "5241070":{
-        "name": "RIPguests Regime",
-        "id": 5241070,
-        "link": "https://www.roblox.com/groups/5241070/RIPguests-Regime#!/about",
+    "4548564":{
+        "name": "Crusaders of the Holy Cross",
+        "id": 4548564,
+        "link": "https://www.roblox.com/groups/4548564",
         "clothes": {
             "11": [8508664185,8229836402,7370369620,7163333714,7118681214],
             "12": [7118711216],
             "2": [4230886156, 8502885698]
         },
-        "status": "N/A"
-    },
-    "7371298": {
-        "name": "The Black Business (old)",
-        "id": 7371298,
-        "link": "https://www.roblox.com/groups/7371298/unnamed#!/about",
-        "clothes": {
-            "11": [6706863085, 6703312042, 6677027667],
-            "12": [6706865482, 6677049036, 6703318037],
-            "2": [6331710433, 6213782374, 6223534670]
-        },
-        "status": "N/A"
-    },
-    "12386509":{
-        "name": "The Black Business (new)",
-        "id": 12386509,
-        "link": "https://www.roblox.com/groups/12386509/The-Black-Business#!/about",
-        "clothes": {
-            "11": [],
-            "12": [],
-            "2": []
-        },
-        "status": "N/A"
-    },
-    "7953105":{
-        "name":"Aces Empire",
-        "id":7953105,
-        "link":"https://www.roblox.com/groups/7953105/Aces-Empire#!/about",
-        "clothes":{
-            "11":[7046671458],
-            "12":[7046672810],
-            "2":[7002785552]
-        },
-        "status": "N/A"
-    },
-    "14018648":{
-        "name":"[T3V] The 3 Victorius",
-        "id":14018648,
-        "link":"https://www.roblox.com/groups/14018648",
-        "clothes":{
-            "11":[],
-            "12":[],
-            "2":[]
-        },
-        "status": "N/A"
-    },
-    "11117772":{
-        "name":"[PHNX] Phalanx",
-        "id":11117772,
-        "link":"https://www.roblox.com/groups/11117772",
-        "clothes":{
-            "11":[9329710200],
-            "12":[9329708547],
-            "2":[6956052473]
-        },
-        "status": "N/A"
+        "status": "BLACKLISTED"
     }
 
 }
